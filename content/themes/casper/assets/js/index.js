@@ -5,7 +5,7 @@
 /* globals jQuery, document */
 (function ($, undefined) {
     "use strict";
-    alert("index.js");
+
     var $document = $(document);
 
     $document.ready(function () {
